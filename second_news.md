@@ -1,3 +1,3 @@
 Date: 2024-06-30
-## Second News
+# Second News
 This is the second news item.
